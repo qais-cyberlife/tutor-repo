@@ -1,0 +1,7 @@
+.hero {
+    background-color: aqua;
+    height: 100px;
+    display: flex;
+    display: block;
+    text-align: center;
+}
